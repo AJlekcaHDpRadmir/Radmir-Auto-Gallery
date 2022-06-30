@@ -1,0 +1,9 @@
+.single-goods {
+  border: 1px solid black;
+  margin: 10px;
+  float: left;
+  text-align: center;
+}
+.single-goods img {
+  width: 400px;
+}
